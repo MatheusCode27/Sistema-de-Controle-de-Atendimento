@@ -16,8 +16,11 @@ Este projeto foi construído para simular um sistema real usado em clínicas, ho
 
 🎨 Demonstração
 Totem de Atendimento
+![Totem](./screenshots/totem.png.png)
 
-(adicione depois um print — eu deixo espaço)
+Painel de Chamadas
+![Painel](./screenshots/painel.png.png)
+
 
 
 Painel de Chamadas
